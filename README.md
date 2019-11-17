@@ -12,3 +12,4 @@ Guia básico de estruturação de um microsserviço.
 **.gitignore** | gitignore default para todos <br/>
 **.gitmodules** | para gestão das bibliotecas terceiras adicionadas <br/>
 **build.sh** | script de build <br/>
+**environtment.sh** | script de instalação do govendor <br/>

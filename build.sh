@@ -26,6 +26,12 @@
 #             └── main.go
 #
 
+function loadDependencies {
+    #adicionar dependencias com o govendor
+}
+
+loadDependencies
+
 # Save the pwd before we run anything
 PRE_PWD=`pwd`
 
